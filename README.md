@@ -1,7 +1,13 @@
-<!DOCTYPE html>
-<html></html>
-  <title>my website</title>
-  </head><body>
-  <h1>Hello,world!</h1
-                    </body>
-  <html></html>
+# Delivry App
+A C# console Application for managing delivery logitics
+
+## current progress
+- [x] initial project setup
+- [ x] Hello world program
+- [] user interface desingn
+
+
+   ## How to Run
+  1.clone respository
+  2.open the solution in visual studio
+  3,press 'F5' to run
